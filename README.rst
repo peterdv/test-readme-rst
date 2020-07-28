@@ -43,3 +43,13 @@ test-readme-rst - Test of rendering of reStructuredText README.rst on github
    :alt: Code coverage for develop branch
 
 	
+.. list-table:: market data project status summary
+   :widths: 15 10 30
+   :header-rows: 1
+
+   * - 
+     - master branch
+     - develop branch
+   * - Build status
+     - |build-status-master|
+     - |code-coverage-master|
