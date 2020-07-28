@@ -1,3 +1,17 @@
+.. -*- coding: utf-8; mode: rst; -*-
+
+.. reStructuredText Markup Specification https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html
+   
+.. For the Python documentation, 
+   this convention is used which you may follow:
+    • # with overline, for parts
+    • * with overline, for chapters
+    • =, for sections
+    • -, for subsections
+    • ^, for subsubsections
+    • ", for paragraphs
+
+
 test-readme-rst - Test of rendering of reStructuredText README.rst on github
 ============================================================================
 
