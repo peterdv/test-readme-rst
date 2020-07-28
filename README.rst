@@ -44,7 +44,7 @@ test-readme-rst - Test of rendering of reStructuredText README.rst on github
 
 	
 .. list-table:: market data project status summary
-   :widths: 15 10 30
+   :widths: 30 30 30
    :header-rows: 1
 
    * - 
@@ -52,4 +52,7 @@ test-readme-rst - Test of rendering of reStructuredText README.rst on github
      - develop branch
    * - Build status
      - |build-status-master|
+     - |build-status-develop|
+   * - Code coverage
      - |code-coverage-master|
+     - |code-coverage-develop|
